@@ -1,7 +1,7 @@
 
 # Text classification (movie review)
 
-Text classification app(flask app) is a common NLP task that assigns a label or class,label like 🙂 positive, 🙁 negative
+Text classification is a common NLP task that assigns a label or class,label like 🙂 positive, 🙁 negative
 
 
 
