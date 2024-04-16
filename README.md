@@ -7,7 +7,7 @@ Text classification is a common NLP task that assigns a label or class,label lik
 
 ## Screenshots
 <p>🙂 positive</p>
-<img src="temp\Screenshot1.png" height="400" width="600">
+<img src="temp\Screenshot1.png" height="50%" width="50%">
 
 <p>🙁 negative</p>
 <img src="temp\Screenshot2.png" height="400" width="600">
